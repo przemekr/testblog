@@ -1,34 +1,23 @@
 ---
 layout: post
 title: test-a-image-post
-date: 2015-06-19 11:01:01
+date: 2015-06-19 11:12:24
 ---
 
-------=_Part_78400_1005707068.1434711684340
-Content-Type: multipart/alternative;
-boundary="----=_Part_78401_74906339.1434711684340"
-
-------=_Part_78401_74906339.1434711684340
-Content-Type: text/plain; charset="UTF-8"
+charset=US-ASCII;
+format=flowed
 Content-Transfer-Encoding: 7bit
 
+Hi,
 
-ok lats try likE that ...
+Just want to share a test photo.
 
-
-
-
-------=_Part_78401_74906339.1434711684340
-Content-Type: text/html; charset="UTF-8"
-Content-Transfer-Encoding: 7bit
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta content="text/html;charset=UTF-8" http-equiv="Content-Type"></head><body ><div style='font-size:10pt;font-family:Verdana,Arial,Helvetica,sans-serif;'><div><div style="font-size:10pt;font-family:verdana,arial,helvetica,sans-serif;"><br>ok lats try likE that ...<br></div></div></div></body></html>
-------=_Part_78401_74906339.1434711684340--
-
-------=_Part_78400_1005707068.1434711684340
-Content-Type: image/png; name="Picture 2.png"
+filename="Picture 2.png"
+Content-Type: image/png;
+x-mac-hide-extension=yes;
+x-unix-mode=0644;
+name="Picture 2.png"
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="Picture 2.png"
 
 iVBORw0KGgoAAAANSUhEUgAAAbQAAAFgCAIAAABc+RsoAAAPW2lDQ1BJQ0MgUHJvZmlsZQAAeAGt
 WHk4lF/fP7NbB2PNOtZkC9n3fSfGTtlmxm6MsYssKSUVfiSisqUs2UpEUqJCSUihVPy0oAWJhOce
@@ -297,5 +286,14 @@ ofnzQ/ffH2lvD+/Zs/AvfwmtXn3mqTwLF+qrN1NSaaJ7uUhRTRafi4PBmttuW1ZRUdHYWCvzTgMD
 amtrZepDDiWbZJbyjQySaIQCUqwULodGulRqFDh//nyDuZGuHJANDNICVb6MNI0MqqVyih+dgMwx
 yn0ThjIy56iTwYYABHxEwDTnqCujzFTI9D1htY8+DTQVAhCwJJCojDJ+JKy2ZEUiBCDgFwK7d++W
 e2SNaNoYMxr2/wfRCn/8zwSZPwAAAABJRU5ErkJggg==
-------=_Part_78400_1005707068.1434711684340--
+charset=US-ASCII;
+format=flowed
+Content-Transfer-Encoding: 7bit
+
+
+
+Przemyslaw Rzepecki
+przemekr@zoho.com
+
+
 
