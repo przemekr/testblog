@@ -6,7 +6,18 @@ date: 2015-06-19 12:28:02
 
 This should come as a code snipped, with syntax highliting:
 
-```javascript
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
+
+
+{% highlight bash linenos %}
 hendleHeader()
 {
     k=$1
@@ -35,25 +46,4 @@ while IFS= read -r LINE; do
     esac
 done
 exit 0
-```
-
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-
-
-Code blocks can be taken a step further by adding syntax highlighting. In your
-fenced block, add an optional language identifier and we'll run it through
-syntax highlighting. For example, to syntax highlight Ruby code:
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-
-
+{% endhighlight %}
