@@ -7,7 +7,6 @@ date: 2015-06-19 12:28:02
 This should come as a code snipped, with syntax highliting:
 
 ```javascript
-
 hendleHeader()
 {
     k=$1
@@ -21,7 +20,6 @@ hendleHeader()
           ;;
     esac
 }
-
 while IFS= read -r LINE; do
     echo "$LINE" >> mail
     case $LINE in
@@ -37,8 +35,4 @@ while IFS= read -r LINE; do
     esac
 done
 exit 0
-
 ```
-
-
-
