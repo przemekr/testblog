@@ -6,7 +6,7 @@ date: 2015-06-19 12:28:02
 
 This should come as a code snipped, with syntax highliting:
 
-```bash
+```javascript
 
 hendleHeader()
 {
