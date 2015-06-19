@@ -1,14 +1,14 @@
 ---
 layout: post
 title: test-a-image-post
-date: 2015-06-19 10:46:18
+date: 2015-06-19 11:01:01
 ---
 
-------=_Part_78259_288661097.1434710799203
+------=_Part_78400_1005707068.1434711684340
 Content-Type: multipart/alternative;
-boundary="----=_Part_78260_361498706.1434710799203"
+boundary="----=_Part_78401_74906339.1434711684340"
 
-------=_Part_78260_361498706.1434710799203
+------=_Part_78401_74906339.1434711684340
 Content-Type: text/plain; charset="UTF-8"
 Content-Transfer-Encoding: 7bit
 
@@ -16,14 +16,16 @@ Content-Transfer-Encoding: 7bit
 ok lats try likE that ...
 
 
-------=_Part_78260_361498706.1434710799203
+
+
+------=_Part_78401_74906339.1434711684340
 Content-Type: text/html; charset="UTF-8"
 Content-Transfer-Encoding: 7bit
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta content="text/html;charset=UTF-8" http-equiv="Content-Type"></head><body ><div style='font-size:10pt;font-family:Verdana,Arial,Helvetica,sans-serif;'><br>ok lats try likE that ...<br></div></body></html>
-------=_Part_78260_361498706.1434710799203--
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta content="text/html;charset=UTF-8" http-equiv="Content-Type"></head><body ><div style='font-size:10pt;font-family:Verdana,Arial,Helvetica,sans-serif;'><div><div style="font-size:10pt;font-family:verdana,arial,helvetica,sans-serif;"><br>ok lats try likE that ...<br></div></div></div></body></html>
+------=_Part_78401_74906339.1434711684340--
 
-------=_Part_78259_288661097.1434710799203
+------=_Part_78400_1005707068.1434711684340
 Content-Type: image/png; name="Picture 2.png"
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="Picture 2.png"
@@ -295,5 +297,5 @@ ofnzQ/ffH2lvD+/Zs/AvfwmtXn3mqTwLF+qrN1NSaaJ7uUhRTRafi4PBmttuW1ZRUdHYWCvzTgMD
 amtrZepDDiWbZJbyjQySaIQCUqwULodGulRqFDh//nyDuZGuHJANDNICVb6MNI0MqqVyih+dgMwx
 yn0ThjIy56iTwYYABHxEwDTnqCujzFTI9D1htY8+DTQVAhCwJJCojDJ+JKy2ZEUiBCDgFwK7d++W
 e2SNaNoYMxr2/wfRCn/8zwSZPwAAAABJRU5ErkJggg==
-------=_Part_78259_288661097.1434710799203--
+------=_Part_78400_1005707068.1434711684340--
 
