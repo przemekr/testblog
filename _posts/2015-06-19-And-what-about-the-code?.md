@@ -112,11 +112,6 @@ hendleHeader()
 read dumy FROM date
 echo "From $FROM $date" >> mail
 
-if [ "$FROM" != "jenny.ying@gmail.com" ] && [ "$FROM" != "przemekr@sdf-eu.org" ] ; then
-   echo "not a valid from addresss $FROM" >> log
-   exit
-fi
-   
 while IFS= read -r LINE; do
    echo "$LINE" >> mail
    case $LINE in
