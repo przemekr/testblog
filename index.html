@@ -2,26 +2,10 @@
 layout: default
 ---
 
-<style>
-p.ex1 {
-    margin-bottom: 2cm;
-}
-</style>
-
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-     <p class="ex1">{{ post.excerpt }}</p>
-  </div>
+   {% include post_desc.html %}
 {% endfor %}
-
-  <p class="ex1"> </p>
-  <p> </p>
-  <p> </p>
 
 <!-- Pagination links -->
 <div class="pagination">

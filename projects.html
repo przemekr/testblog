@@ -6,14 +6,6 @@ permalink: /projects/
 
 {% for post in site.posts %}
    {% if post.category == "projects" %}
-  <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-     <p class="ex1">{{ post.excerpt }}</p>
-  </div>
-  {% endif %}
+   {% include post_desc.html %}
+   {% endif %}
 {% endfor %}
-
-<p class="ex1"> </p>
