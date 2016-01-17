@@ -2,6 +2,7 @@
 layout: post
 title: A test photo posted from the mobile
 date: 2015-06-19 15:41:18
+category: test
 ---
 
 just for test and fun. 

@@ -2,6 +2,8 @@
 layout: post
 title: midsummer-thougts
 date: 2015-06-18 21:18:57
+category: blog
+tags: [midsummer, Jekyll]
 ---
 
 Its usually rains for the midsummer, a way to annoy all the Swedes for

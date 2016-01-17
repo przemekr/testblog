@@ -2,6 +2,8 @@
 layout: post
 title: Wind, sun, surf...
 date: 2015-06-21 20:24:35
+category: blog
+tags: [summer, windsurfing]
 ---
 
 The long weekend started a bit rainy, the ended with a bit

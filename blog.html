@@ -1,0 +1,11 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
+{% for post in site.posts %}
+   {% if post.category == "blog" %}
+   {% include post_desc.html %}
+   {% endif %}
+{% endfor %}
