@@ -1,3 +1,2 @@
 <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-<span class="date">{{ post.date }}</span>
-<p class="ex1">{{ post.excerpt }}</p>
+<p class="extraspace_bottom">{{ post.date | date: "%b %-d, %Y" }}, {{ post.excerpt }}</p>
