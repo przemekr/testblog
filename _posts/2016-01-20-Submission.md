@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Submission" Novel by Michel Houellebecq
+title: Submission, Novel by Michel Houellebecq
 date: 2016-01-20
 category: books
 tags: [politics, fiction, Europe]
@@ -18,4 +18,3 @@ Socialist Party.
 Did not like it. Only two stars. Interesting idea. Pessimistic vision. Shows
 what is worst in humans. That all are opportunists happy to give away freedom
 and responsibility for personal benefits. (But I do not believe it).
-
