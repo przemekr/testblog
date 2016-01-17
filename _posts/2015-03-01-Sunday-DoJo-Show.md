@@ -17,7 +17,6 @@ There is no better way to learn!
 ['SundayDojoShow@Youtube'](https://www.youtube.com/playlist?list=PLmmL1sHORHnOelx6PLNgPEvL-AXoNldGf). 
 
 The source code is available at: 
-['SundayDojoShow@Bitbucket'](https://bitbucket.org/przemekr/dojos/src/default/sunday_dojo_show/).
 
 See the list of episodes under Sunday Dojo Category
-['list'](/sun_dojo/).
+['list'](testblog/sun_dojo/).
