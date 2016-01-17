@@ -1,12 +1,27 @@
-# Site settings
-title: Test
-description: > # this means to ignore newlines until "baseurl:"
-   This is a test version of capture output with Jekyll tool.
+title: Przemek's homepage
+tagline: lost in time
+description: > 
+   My humble home in the great space of the Internet... a bit about my projects,
+   as well as the projects, books, movies that I like and recommend. 
+   
 baseurl: "/testblog" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-github_username:  przemekr
 paginate: 10
 paginate_path: "/testblog/page:num"
 
-# Build settings
+simple_search: http://google.com/search
 markdown: kramdown
+kramdown:
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+timezone:    Europe/Stockholm
+
+github_username:  przemekr
+author :
+  name : Przemyslaw Rzepecki
+  email : przemekr@zoho.com
+  github : przemekr
+  linkedin: przemekr
+  bitbucket: przemekr
