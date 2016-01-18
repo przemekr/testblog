@@ -6,7 +6,38 @@ permalink: /list/
 <div class="home">
 
    <table class="post-list">
-      {% for post in site.posts %}
+      <th colspan="2">Projects</th>
+      {% for post in site.categories.PROJECTS %}
+      <tr>
+         <td class="date-small"> {{ post.date | date: "%b %-d, %Y" }} ...  </td>
+         <td> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+               {{ post.title }}</a>
+         </td>
+      </tr>
+      {% endfor %}
+
+      <th colspan="2">Books</th>
+      {% for post in site.categories.BOOKS %}
+      <tr>
+         <td class="date-small"> {{ post.date | date: "%b %-d, %Y" }} ...  </td>
+         <td> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+               {{ post.title }}</a>
+         </td>
+      </tr>
+      {% endfor %}
+
+      <th colspan="2">Sunday DoJo</th>
+      {% for post in site.categories.SUNDAY_DOJO %}
+      <tr>
+         <td class="date-small"> {{ post.date | date: "%b %-d, %Y" }} ...  </td>
+         <td> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+               {{ post.title }}</a>
+         </td>
+      </tr>
+      {% endfor %}
+
+      <th colspan="2">Blog</th>
+      {% for post in site.categories.BLOG %}
       <tr>
          <td class="date-small"> {{ post.date | date: "%b %-d, %Y" }} ...  </td>
          <td> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -15,6 +46,4 @@ permalink: /list/
       </tr>
       {% endfor %}
    </table>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
