@@ -5,9 +5,6 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     background: url({{ site.baseurl }}/assets/sea_header1.jpg) no-repeat center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     min-height: 80px;
     position: relative;
