@@ -30,10 +30,11 @@ $on-laptop:        800px;
 }
 
 .htitle {
-   position: fixed;
+   position: relative;
    color: white;
    top: 200px;
-   left: 20%;
+   left: 0%;
+   font-size:120%;
 }
 
 .date-small {
@@ -69,6 +70,19 @@ a.mmenu:hover {
    color: white;
 }
 
+.mquote {
+   position: fixed;
+   top: 10%;
+   left: 60%;
+   width: 20%;
+   font-size: 150%;
+   font-weight: bold;
+   color: white;
+}
+
+.quotetext {
+   font-size: 110%;
+}
 
 body {
    background-image: url(fleaf.png);
@@ -82,6 +96,15 @@ body {
    -moz-background-size: cover;
    -o-background-size: cover;
    background-size: cover;
+}
+
+#disqus_thread {
+   width: $content-width;
+   position: center;
+   padding-right: $spacing-unit / 2;
+   padding-left: $spacing-unit / 2;
+   margin-right: auto;
+   margin-left: auto;
 }
 
 // Using media queries with like this:
