@@ -22,6 +22,5 @@ Some of the Vim features I have used:
  [virtual select](http://vim.wikia.com/wiki/Use_filter_)
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=HG4v7nQ2evU&index=1&list=PLmmL1sHORHnOelx6PLNgPEvL-AXoNldGf" frameborder="0" allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HG4v7nQ2evU?list=PLmmL1sHORHnOelx6PLNgPEvL-AXoNldGf" frameborder="0" allowfullscreen></iframe>
 

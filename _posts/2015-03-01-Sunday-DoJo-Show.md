@@ -20,3 +20,5 @@ The source code is available at:
 
 See the list of episodes under Sunday Dojo Category
 ['list'](testblog/sun_dojo).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HG4v7nQ2evU?list=PLmmL1sHORHnOelx6PLNgPEvL-AXoNldGf" frameborder="0" allowfullscreen></iframe>
