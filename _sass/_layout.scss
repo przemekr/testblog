@@ -3,11 +3,13 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    background: url({{ site.baseurl }}/assets/sea_header1.jpg) no-repeat center fixed; 
+    border-bottom: 3px solid $grey-color-light;
+    background-image: url(../assets/sea_header2.jpg);
     background-size: cover;
-    min-height: 80px;
-    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    min-height: 300px;
 }
 
 .site-title {

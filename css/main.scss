@@ -29,6 +29,13 @@ $on-laptop:        800px;
     font-size:14px
 }
 
+.htitle {
+   position: fixed;
+   color: white;
+   top: 200px;
+   left: 20%;
+}
+
 .date-small {
     font-size:10px
 }
@@ -76,7 +83,6 @@ body {
    -o-background-size: cover;
    background-size: cover;
 }
-
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
