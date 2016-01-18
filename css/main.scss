@@ -39,20 +39,27 @@ $on-laptop:        800px;
 }
 
 p.post_descr {
-    margin-bottom: 2cm;
+    margin-bottom: 1cm;
     margin-left:   1cm;
 }
 
 
 .mmenu {
-   background: rgba(225, 225, 225, .8);
-   padding: 100px;
-   width: 90%;
+   background: rgba(225, 225, 225, .6);
+   position: fixed;
+   top: 70%;
+   left: 20%;
+   width: 100%;
+   border: 3px solid #73AD21;
 }
 
 a.mmenu {
    font-size:10px;
    font-color:darkgreen;
+}
+
+a.mmenu:hover {
+   color: white;
 }
 
 
