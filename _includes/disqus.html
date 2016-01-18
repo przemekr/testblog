@@ -5,8 +5,8 @@
      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
      */
     var disqus_config = function () {
-       this.page.url = '{{ page.url | prepend: site.baseurl }}'
-       this.page.identifier = '{{ page.id }}'
+       this.page.url = 'http://przemekr.github.io{{ page.url | prepend: site.baseurl }}'
+       this.page.identifier = '{{ page.url }}'
     };
     (function() {  // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');

@@ -49,6 +49,15 @@ body {
    background-position: 63%;
 }
 
+.fullbg { 
+   background: url({{ site.baseurl }}/assets/sea_backgroud.jpg) no-repeat center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+
 // Using media queries with like this:
 // @include media-query($on-palm) {
 //     .wrapper {
