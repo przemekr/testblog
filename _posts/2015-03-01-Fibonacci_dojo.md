@@ -2,7 +2,7 @@
 layout: post
 title: Fibonacci DoJo
 date: 2015-03-01 
-category: blog
+category: Sunday Dojo
 tags: [C++, dojo, Vim]
 ---
 

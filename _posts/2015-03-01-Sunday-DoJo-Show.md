@@ -19,4 +19,4 @@ There is no better way to learn!
 The source code is available at: 
 
 See the list of episodes under Sunday Dojo Category
-['list'](testblog/sun_dojo/).
+['list'](testblog/sun_dojo).
