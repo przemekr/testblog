@@ -6,7 +6,7 @@ permalink: /list/
 <div class="home">
 
    <table class="post-list">
-      <tr> <th colspan="2">Projects</th> </tr>
+      <tr> <th colspan="2" class="trtitle">Projects</th> </tr>
       {% for post in site.posts %}
       {% if post.category == "projects" %}
       <tr>
@@ -18,7 +18,7 @@ permalink: /list/
       {% endif %}
       {% endfor %}
 
-      <tr> <th colspan="2">Books</th> </tr>
+      <tr> <th colspan="2" class="trtitle">Books</th> </tr>
       {% for post in site.posts %}
       {% if post.category == "books" %}
       <tr>
@@ -30,7 +30,7 @@ permalink: /list/
       {% endif %}
       {% endfor %}
 
-      <tr> <th colspan="2">Sunday DoJo</th> </tr>
+      <tr> <th colspan="2" class="trtitle">Sunday DoJo</th> </tr>
       {% for post in site.posts %}
       {% if post.category == "Sunday Dojo" %}
       <tr>
@@ -42,9 +42,9 @@ permalink: /list/
       {% endif %}
       {% endfor %}
 
-      <tr> <th colspan="2">Blog</th> </tr>
+      <tr> <th colspan="2" class="trtitle">Blog</th> </tr>
       {% for post in site.posts %}
-      {% if post.category == "Blog" %}
+      {% if post.category == "blog" %}
       <tr>
          <td class="date-small"> {{ post.date | date: "%b %-d, %Y" }} ...  </td>
          <td> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
