@@ -20,8 +20,8 @@ timezone:    Europe/Stockholm
 
 github_username:  przemekr
 author :
-  name : Przemyslaw Rzepecki
-  email : przemekr@zoho.com
-  github : przemekr
-  linkedin: przemekr
-  bitbucket: przemekr
+  name : 'Przemyslaw Rzepecki'
+  email : przemekr@sdfeu.org
+  github_username : przemekr
+  linkedin_username: przemekr
+  bitbucket_username: przemekr

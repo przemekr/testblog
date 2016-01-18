@@ -21,4 +21,7 @@ Some of the Vim features I have used:
 * filter lines through external program -- used to get 0..40 numbers from a python script, a :.! program, program might grep, sort uniq, bc/calculator, etc. See
  [virtual select](http://vim.wikia.com/wiki/Use_filter_)
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=HG4v7nQ2evU&index=1&list=PLmmL1sHORHnOelx6PLNgPEvL-AXoNldGf" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=HG4v7nQ2evU&index=1&list=PLmmL1sHORHnOelx6PLNgPEvL-AXoNldGf" frameborder="0" allowfullscreen>
+</iframe>
+
