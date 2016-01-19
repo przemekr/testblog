@@ -4,6 +4,7 @@ title: Fibonacci DoJo
 date: 2015-03-01 
 category: Sunday Dojo
 tags: [C++, dojo, Vim]
+thumb: http://przemekr.sdfeu.org/coding.png
 ---
 
 A coding DoJo screen-cast

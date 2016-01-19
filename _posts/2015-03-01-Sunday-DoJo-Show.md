@@ -4,6 +4,7 @@ title: Sunday Dojo Show
 date: 2015-03-01 12:28:02
 category: projects
 tags: [DoJo, code, learn, c++]
+thumb: http://przemekr.sdfeu.org/coding.png
 ---
 
 Screen Cast video series for coding skills practice. 

@@ -1,2 +1,5 @@
+{% if post.thumb %}
+<img class="thumb" src={{post.thumb}}>
+{% endif %}
 <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
 <p class="post_descr">{{ post.date | date: "%b %-d, %Y" }}, {{ post.excerpt | remove: '<p>' | remove: '</p>'}}</p>
