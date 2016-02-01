@@ -2,7 +2,7 @@
 layout: post
 title: Wind, sun, surf...
 date: 2015-06-21 20:24:35
-category: blog
+category: FreshAir
 tags: [summer, windsurfing]
 ---
 

@@ -1,0 +1,11 @@
+---
+layout: page
+title: FreshAir
+permalink: /freshair/
+---
+
+{% for post in site.posts %}
+   {% if post.category == "FreshAir" %}
+   {% include post_desc.html %}
+   {% endif %}
+{% endfor %}
