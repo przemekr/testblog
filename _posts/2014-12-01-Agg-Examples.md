@@ -2,7 +2,7 @@
 layout: post
 title: Anti-Grain Geometry Examples
 date: 2014-12-01
-category: Sunday Dojo
+category: projects
 tags: [C++, dojo, Vim]
 thumb: https://lh4.ggpht.com/cYV1W9t-xAdByo0LWmAYgh3CJJn_hm-wfmcXY4AaVDwEiYGh9PcuBMDec3Bv4f-phtc=h80
 ---
