@@ -12,6 +12,17 @@
     min-height: 300px;
 }
 
+.site-winter-header {
+    border-top: 5px solid $grey-color-dark;
+    border-bottom: 3px solid $grey-color-light;
+    background-image: url(../assets/winter_header.jpg);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    min-height: 300px;
+}
+
 .site-title {
     font-size: 26px;
     line-height: 56px;
